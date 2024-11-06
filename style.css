@@ -1,0 +1,27 @@
+html, body{
+    margin: 0;
+}
+html{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    height: 100%;
+}
+h1{
+    text-align: center;
+    text-shadow: 0 0 4px white;
+}
+body{
+    overflow:hidden;
+    height: inherit;
+}
+.copy_right_footer{
+    position: fixed;
+    color: rgb(127, 146, 254);
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(250, 250, 250, 0.676);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 0 0 4px rgb(21, 4, 52);
+    }
